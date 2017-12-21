@@ -1,10 +1,9 @@
 Java_Poker
 ==========
 
-Poker sim built in Java.  My first Java project!
+Poker sim built in Java.  My first Java project! The simulation deals 8 hands of cards and plays through the hand, indicating the leading hand until the river is dealt.
 
-[[https://github.com/TTr2/Java_Poker_Simulation/blob/master/Java_Poker_Screenshot.jpg]]
-
+Press SPACE to advance the round.
 Requires JDK 7.
 
 Paths are all relative so should run OK from anywhere.
