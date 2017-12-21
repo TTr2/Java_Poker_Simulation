@@ -3,6 +3,8 @@ Java_Poker
 
 Poker sim built in Java.  My first Java project!
 
+[[https://github.com/TTr2/Java_Poker_Simulation/blob/master/Java_Poker_Screenshot.jpg]]
+
 Requires JDK 7.
 
 Paths are all relative so should run OK from anywhere.
